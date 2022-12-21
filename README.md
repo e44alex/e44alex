@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @e44alex
-- 👀 I’m interested in developing .NET Core web applications
-- 🌱 I’m currently learning .NET Core and Angular
+- 👀 I’m interested in developing web applications
+- 🌱 I’m currently into developing with various techs like .NET, Angular, React, GraphQL, Apollo, etc.
 - 📫 How to reach me: e44alex@gmail.com
 
 <!---
